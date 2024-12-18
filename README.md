@@ -110,11 +110,11 @@ npm install && npm start
 | 9GB RAM PANEL                    | 5000 NAIRA   ✅     
 | 10GB RAM PANEL                   | 5500 NAIRA   ✅
 
-`Contact ES TEAMS TECH to Purchase a Private Fast Panel Now!!!`
+`Contact MX-GΔMΞCØDΞR TECH to Purchase a Private Fast Panel Now!!!`
 
 
 # DO YOU WANT TO GET THE PREMIUM VERSION ?
-<br>
+<br><br>
     <a href='https://t.me/mxgamecoderr' target="_blank"><img alt='PURCHASE' src='https://img.shields.io/badge/-PURCHASE_FILE-blue?style=for-the-badge&logo=telegram&logoColor=white'/></a>
 
 
