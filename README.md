@@ -88,7 +88,7 @@ npm install && npm start
     
 
 ## WATCH PANEL TUTORIAL VIDEO.
-[![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/hJTYSquTtE8)
+[![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mxgamecoder)
 
 <br>
     <h2 align="center"> ⚠️ NOTE  </h2>
