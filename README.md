@@ -1,5 +1,5 @@
 # 👿 ShadowVortex 👿 
-   <a><img src='https://i.ibb.co/t8sHrhb/IMG-20241218-WA0144.jpg'/></a>
+   <a><img src='https://i.ibb.co/Y7hPrVZ/IMG-20241218-WA0145.jpg'/></a>
 <p align="center">
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•👿 ShadowVortex 👿;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+MX-GΔMΞCØD+ΞR;RELEASED+DATE+18%2F12%2F2024." alt="Typing SVG" /></a>
@@ -33,6 +33,59 @@
 1. If you don't have an account in PANEL, create one and deploy.
     <br>
     <a href='https://control.bot-hosting.net/auth/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=bot-hosting.net&logoColor=white'/></a>
+    
+### 2b. DEPLOY ON REPLIT
+
+1. If you don't have an account in REPLIT, create one and deploy.
+        <br>
+    <a href='https://replit.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+
+### 2b. DEPLOY ON PANEL
+
+1. If you don't have an account in PANEL, create one and deploy.
+    <br>
+    <a href='https://dashboard.katabump.com/auth/login#6f0398' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=katabump.com&logoColor=white'/></a>
+
+#### DEPLOY IN TERMUX/UBUNTU
+ 
+```
+apt update && apt upgrade -y
+```
+```
+pkg install proot-distro
+```
+```
+proot-distro install ubuntu
+```
+```
+proot-distro login ubuntu
+```
+```
+apt update && apt upgrade -y
+```
+```
+apt install -y webp git ffmpeg curl imagemagick
+```
+```
+apt -y remove nodejs
+curl -fsSl https://deb.nodesource.com/setup_lts.x | bash - && apt -y install nodejs
+```
+```
+apt-get install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
+```
+```
+git clone https://github.com/<your gitHub Username>/ShadowVortex
+cd ShadowVortex
+```
+```
+npm install && npm start
+```
+<br>
+
+# 👿
+    I LOVE YOU GUYS 😒😔😂
+    
 
 ## WATCH PANEL TUTORIAL VIDEO.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/hJTYSquTtE8)
