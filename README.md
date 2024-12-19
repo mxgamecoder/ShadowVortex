@@ -1,4 +1,5 @@
 # 👿 ShadowVortex 👿 
+# if you don't add your number to the owner in datsbase the code will not appear it will fail i warn you oooo
    <a><img src='https://i.ibb.co/Y7hPrVZ/IMG-20241218-WA0145.jpg'/></a>
 <p align="center">
 <p align="center">
